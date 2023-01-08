@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-##Project Overview
+## Project Overview
 
 
 Accountability Accounting, an investment bank, is looking into adding cryptocurrency investment portfolio for their customers. 
